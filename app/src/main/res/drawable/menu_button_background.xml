@@ -1,0 +1,16 @@
+<!-- button_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/blueColor"/>
+            <corners android:radius="30dp"/>
+            <size android:width="100dp" android:height="100dp"/>
+        </shape>
+    </item>
+<!--    <item android:state_enabled="false">-->
+<!--        <shape>-->
+<!--            <solid android:color="@color/orangeColor"/>-->
+<!--            <corners android:radius="16dp"/>-->
+<!--        </shape>-->
+<!--    </item>-->
+</selector>

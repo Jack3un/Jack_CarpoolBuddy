@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "932193634132",
+    "project_id": "ridesharepro",
+    "storage_bucket": "ridesharepro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932193634132:android:35cdff12781de0c781eac1",
+        "android_client_info": {
+          "package_name": "com.yangqee.ridesharepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932193634132-d8igc3449gavvrs520742r181u5rmtl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yangqee.ridesharepro",
+            "certificate_hash": "2abb07df511693672169645106e3e4210078e115"
+          }
+        },
+        {
+          "client_id": "932193634132-feb22h3t134h9mn4smtq7fac77dg1p3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Qu6l4mTkB4Xqg3M7oS6k73rCGkpBPvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932193634132-feb22h3t134h9mn4smtq7fac77dg1p3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

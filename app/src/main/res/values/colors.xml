@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="words">#1E528B</color>
+    <color name="orange">#FE6900</color>
+    <color name="showInfoBackground">#f8f9fa</color>
+    <color name="myButtonColor">#1E528B</color>
+
+
+
+    <!-- Define your colors -->
+    <color name="primaryColor">#fbfaff</color>
+    <color name="primaryLightColor">#52B788</color>
+    <color name="primaryDarkColor">#062C30</color>
+    <color name="primaryTextColor">#FFFFFF</color>
+
+    <color name="blueColor">#2196F3</color> <!-- Primary blue color -->
+    <color name="orangeColor">#FF9800</color> <!-- Accent orange color -->
+    <color name="whiteColor">#FFFFFF</color> <!-- White color for text or backgrounds -->
+    <color name="blueTextColor">#0D47A1</color> <!-- A darker blue for text to ensure good contrast -->
+
+</resources>

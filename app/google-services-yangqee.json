@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006669630842",
+    "project_id": "ibcsproject-ee95a",
+    "storage_bucket": "ibcsproject-ee95a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006669630842:android:ddecbb0b2561b7c1c9dac3",
+        "android_client_info": {
+          "package_name": "com.yangqee.ridesharepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006669630842-ko44dqbrkmfl82eo6a8k4hg3pqlk21ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw0IP1wvHria4J1oDxfPftvPllffPKLYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006669630842-ko44dqbrkmfl82eo6a8k4hg3pqlk21ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

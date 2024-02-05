@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Carpool Buddy</string>
+    <string name="btngooglelogin">btnGoogleLogin</string>
+    <!--    <string name="default_web_client_id">1006669630842-ko44dqbrkmfl82eo6a8k4hg3pqlk21ps.apps.googleusercontent.com</string>-->
+    <!--    <string name="default_web_client_id">1:1006669630842:android:ddecbb0b2561b7c1c9dac3</string>-->
+    <string name="default_web_client_id">1:769142611923:android:1e526641a8a04c96399926</string>
+    <string name="seats_avaliable">Seats Avaliable:</string>
+    <string name="vehicle_model">Vehicle Model</string>
+    <string name="vehicle_type">Vehicle Type</string>
+    <string name="book_seat">Book Seat</string>
+    <string name="price_per_seat">Price Per Seat</string>
+    <string name="add_vehicle">Add Vehicle</string>
+    <string name="update_vehicle">Update Vehicle</string>
+    <string name="brand">Brand</string>
+    <string-array name="userTypes">
+        <item>Student</item>
+        <item>Parent</item>
+        <item>Alumni</item>
+        <item>Teacher</item>
+    </string-array>
+
+    <string-array name="vehicle_types">
+        <item>Car</item>
+        <item>Helicopter</item>
+        <item>Bicycle</item>
+        <item>Segway</item>
+    </string-array>
+</resources>
